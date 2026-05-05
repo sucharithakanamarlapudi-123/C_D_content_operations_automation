@@ -1,0 +1,62 @@
+--- AXION BRAND COMPLIANCE REPORT ---
+Date: 2026-05-04 09:26:19
+Compliance Score: 72/100
+Summary: The content is generally clear and business-focused, but it violates several Axion brand rules on approved terminology, banned words, claim substantiation, and CTA standards. The tone is mostly aligned, though a few phrases feel more promotional than peer-to-peer. Main fixes: replace prohibited AI terminology, remove banned wording, qualify or cite performance claims, and use an approved CTA format only.
+
+DETAILED VIOLATIONS:
+--------------------
+1. Category: Approved Product Terminology
+   Issue: Uses prohibited AI descriptor: "AI-powered".
+   Citation: "AI Descriptor: AI-assisted (Do not use \"AI-powered\" or \"machine learning-powered\")" [Section: VOICE AND TONE, Page: 0]
+   Suggestion: Change "Axion is an AI-powered revenue intelligence platform" to "Axion is an AI-assisted revenue intelligence platform."
+
+2. Category: Approved Product Terminology
+   Issue: Uses prohibited phrase: "leverages machine learning".
+   Citation: "AI Descriptor: AI-assisted (Do not use \"AI-powered\" or \"machine learning-powered\")" [Section: VOICE AND TONE, Page: 0]
+   Suggestion: Replace with "uses AI-assisted analysis" or rewrite as "helps customer success and sales teams identify at-risk accounts..." without mentioning machine learning.
+
+3. Category: Banned Words and Substitutions
+   Issue: Uses banned word: "leverages".
+   Citation: "leverage -> use \"use\", \"apply\", or \"harness\"" [Section: BANNED WORDS AND SUBSTITUTIONS, Page: 0]
+   Suggestion: Replace "leverages" with "uses".
+
+4. Category: Banned Words and Substitutions
+   Issue: Uses superlative-style claim: "industry-leading accuracy" without source support.
+   Citation: "Superlative claims require a third-party source published within the last 18 months." [Section: BANNED WORDS AND SUBSTITUTIONS, Page: 0]
+   Suggestion: Remove "industry-leading" or replace with a sourced claim tied to a recent third-party citation.
+
+5. Category: Banned Words and Substitutions
+   Issue: Uses banned word: "seamlessly" in "integrates seamlessly".
+   Citation: "seamlessly -> use \"simply\" or remove" [Section: BANNED WORDS AND SUBSTITUTIONS, Page: 0]
+   Suggestion: Change to "connects to your existing CRM, MAP, and data warehouse" or "works with your existing CRM, MAP, and data warehouse."
+
+6. Category: Approved Product Terminology
+   Issue: Uses non-approved integration verb: "integrates".
+   Citation: "Integration Verb: \"connects to\" or \"works with\"" [Section: VOICE AND TONE, Page: 0]
+   Suggestion: Replace "integrates seamlessly with" with "connects to" or "works with".
+
+7. Category: Claim and Citation Standards
+   Issue: Quantitative claim lacks citation: "23% improvement in retention rates within the first 90 days."
+   Citation: "Quantitative claims (e.g. \"23% improvement\") require a source citation in long-form content." [Section: BANNED WORDS AND SUBSTITUTIONS, Page: 0]
+   Suggestion: Add a source citation for the 23% figure or remove the number and use a non-quantified statement.
+
+8. Category: Claim and Citation Standards
+   Issue: Quantitative claim lacks citation: "spent 3 hours per week... under 30 minutes."
+   Citation: "Quantitative claims (e.g. \"23% improvement\") require a source citation in long-form content." [Section: BANNED WORDS AND SUBSTITUTIONS, Page: 0]
+   Suggestion: Add a source citation for the time-savings claim or rewrite without specific numbers.
+
+9. Category: Claim and Citation Standards
+   Issue: Quantitative claim lacks citation: "trusted by revenue teams at over 400 companies globally."
+   Citation: "Quantitative claims (e.g. \"23% improvement\") require a source citation in long-form content." [Section: BANNED WORDS AND SUBSTITUTIONS, Page: 0]
+   Suggestion: Provide a source for the customer count or revise to a non-numeric statement such as "trusted by revenue teams across industries."
+
+10. Category: CTA Standards
+   Issue: Uses non-approved CTA phrase: "Schedule a demo".
+   Citation: "Approved: \"Book a demo\", \"See it in action\", \"Schedule a call\"" [Section: CHANNEL-SPECIFIC SPECIFICATIONS, Page: 1]
+   Suggestion: Replace "Schedule a demo today" with "Book a demo" or "See it in action."
+
+11. Category: CTA Standards
+   Issue: Contains CTA wording that should use approved format only; also all CTAs must link to a tracked URL.
+   Citation: "Rule: All CTAs must link to a tracked URL." [Section: CTA, Page: 1]
+   Suggestion: Ensure the final CTA is one approved phrase, such as "Book a demo," and attach it to a tracked URL.
+
