@@ -1,0 +1,68 @@
+{
+    "channel": "linkedin",
+    "target_audience": "Sales Firm Directors and Business people",
+    "adapted_content": "Most revenue decisions fail for one simple reason: leaders are reacting to old data.\n\nAxion is an AI-assisted revenue intelligence platform that helps sales and customer success teams spot at-risk accounts earlier, improve pipeline forecasting, and uncover expansion opportunities in one clear view.\n\nIt works with your existing CRM, MAP, and data warehouse, so teams can improve visibility without replacing core systems. The result: less time spent on manual pipeline reviews and more time focused on customer conversations and revenue growth.\n\nUsed by more than 400 companies across financial services, healthcare, and technology, Axion supports both growing firms and global enterprises that need more consistent forecasting.\n\nSee it in action. #RevenueIntelligence #SalesLeadership #Forecasting",
+    "change_log": [
+        {
+            "original_element": "\u201cthey're making decisions about tomorrow using data from last week\u201d",
+            "adapted_element": "\u201cMost revenue decisions fail for one simple reason: leaders are reacting to old data.\u201d",
+            "rationale": "Created a stronger LinkedIn hook for executive readers while keeping the original business problem intact."
+        },
+        {
+            "original_element": "\u201cAxion is an AI-powered revenue intelligence platform\u201d",
+            "adapted_element": "\u201cAxion is an AI-assisted revenue intelligence platform\u201d",
+            "rationale": "Replaced banned product descriptor with approved brand terminology."
+        },
+        {
+            "original_element": "\u201cleverages machine learning to help customer success and sales teams identify at-risk accounts, forecast pipeline with industry-leading accuracy, and surface expansion opportunities\u201d",
+            "adapted_element": "\u201chelps sales and customer success teams spot at-risk accounts earlier, improve pipeline forecasting, and uncover expansion opportunities\u201d",
+            "rationale": "Removed banned wording such as 'leverages' and unsupported superlative language such as 'industry-leading accuracy'; simplified for executive readability."
+        },
+        {
+            "original_element": "\u201call in a single, intuitive interface\u201d",
+            "adapted_element": "\u201cin one clear view\u201d",
+            "rationale": "Made the phrasing more concise and professional for LinkedIn while preserving the usability message."
+        },
+        {
+            "original_element": "\u201cintegrates seamlessly with your existing CRM, MAP, and data warehouse, so there's no rip-and-replace\u201d",
+            "adapted_element": "\u201cIt works with your existing CRM, MAP, and data warehouse, so teams can improve visibility without replacing core systems.\u201d",
+            "rationale": "Replaced banned term 'seamlessly' with approved wording 'works with' and reframed the benefit in more executive-friendly language."
+        },
+        {
+            "original_element": "\u201cThe ROI is clear: customers who deploy Axion report a 23% improvement in retention rates within the first 90 days.\u201d",
+            "adapted_element": "Removed specific percentage claim",
+            "rationale": "Quantitative claims require citation in long-form content; omitted the unsupported statistic to maintain compliance and credibility in short-form LinkedIn copy."
+        },
+        {
+            "original_element": "\u201cTeams that previously spent 3 hours per week in manual pipeline reviews now complete the same review in under 30 minutes.\u201d",
+            "adapted_element": "\u201cThe result: less time spent on manual pipeline reviews and more time focused on customer conversations and revenue growth.\u201d",
+            "rationale": "Converted an uncited quantitative claim into a qualitative business outcome suitable for executive audiences."
+        },
+        {
+            "original_element": "\u201cOur AI does the heavy lifting so your team can focus on what matters: building relationships and closing deals.\u201d",
+            "adapted_element": "\u201cmore time focused on customer conversations and revenue growth\u201d",
+            "rationale": "Shifted from promotional phrasing to a more direct, peer-level business outcome aligned with brand tone."
+        },
+        {
+            "original_element": "\u201cAxion is trusted by revenue teams at over 400 companies globally\u201d",
+            "adapted_element": "\u201cUsed by more than 400 companies across financial services, healthcare, and technology\u201d",
+            "rationale": "Kept the credibility point while tightening phrasing for LinkedIn and maintaining a confident but not inflated tone."
+        },
+        {
+            "original_element": "\u201cWhether you're a 50-person scale-up trying to build a repeatable revenue motion or a 5,000-person enterprise looking to standardize forecasting across regions, Axion adapts to your workflow.\u201d",
+            "adapted_element": "\u201cAxion supports both growing firms and global enterprises that need more consistent forecasting.\u201d",
+            "rationale": "Condensed the segment-specific message to fit LinkedIn length and better match Sales Firm Directors and business leaders."
+        },
+        {
+            "original_element": "\u201cReady to see it in action? Schedule a demo today\u201d",
+            "adapted_element": "\u201cSee it in action.\u201d",
+            "rationale": "Used an approved LinkedIn CTA from brand guidelines and kept it concise."
+        },
+        {
+            "original_element": "Long-form product overview structure",
+            "adapted_element": "Short LinkedIn post with brief paragraphs and hashtags",
+            "rationale": "Restructured the content to fit channel-specific requirements: professional thought-leadership style, short paragraphs, strong opening hook, and 3 hashtags."
+        }
+    ],
+    "brand_compliance_check": "The post follows Axion brand standards by using the approved product name 'Axion' and the approved descriptor 'AI-assisted.' It uses 'revenue intelligence' as the core capability and 'works with' for integrations. Banned words including 'leverage,' 'seamlessly,' 'revolutionary,' 'empower,' and unsupported superlatives were removed. The tone is direct, confident, and human, written like a senior colleague speaking to a peer. The copy leads with business outcomes for an executive audience, frames AI as judgment support rather than hype, stays within LinkedIn length expectations, uses short paragraphs, includes exactly three hashtags, and ends with an approved CTA: 'See it in action.' Unsupported quantitative and superlative claims were omitted to maintain compliance."
+}
